@@ -7,7 +7,7 @@ TransformerBot - это чат-бот, основанный на fine-tuned ве
 
 https://colab.research.google.com/drive/1LHlmVI4_fN0OtxhN2lqGMMCNUICbAS3K#scrollTo=XXbVXXV6u88p
 
-
+ 
 ## 🔹 Особенности
 
 - **Fine-tuned модель**: Дообученная версия rugpt3small с оптимизированными параметрами генерации
