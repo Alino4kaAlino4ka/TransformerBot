@@ -2,7 +2,7 @@
 
 
 # TransformerBot - Чат-бот на основе трансформерной модели
-
+ 
 TransformerBot - это чат-бот, основанный на fine-tuned версии модели rugpt3small от Сбера, дообученной на датасете SiberianPersonaChat (448k диалогов). Проект включает полный цикл: от обучения модели до развертывания в Telegram. 
 
 https://colab.research.google.com/drive/1LHlmVI4_fN0OtxhN2lqGMMCNUICbAS3K#scrollTo=XXbVXXV6u88p
